@@ -1,4 +1,4 @@
-﻿[project]
+[project]
 name = "vera-bot"
 version = "2.0.0"
 description = "Magicpin Vera AI merchant engagement bot — hybrid BM25 + LLM"
