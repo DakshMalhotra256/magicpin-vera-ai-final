@@ -1,4 +1,4 @@
-﻿# Vera Bot v2 — Hybrid BM25 + LLM Merchant Engagement
+# Vera Bot v2 — Hybrid BM25 + LLM Merchant Engagement
 
 ## Approach
 

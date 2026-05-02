@@ -1,4 +1,4 @@
-﻿"""Dual-path composition: deterministic + LLM run in parallel, LLM selector picks the best.
+"""Dual-path composition: deterministic + LLM run in parallel, LLM selector picks the best.
 
 Architecture:
     Input ──┬── Path A: deterministic (BM25 template + name swap) ──┐

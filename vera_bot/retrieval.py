@@ -1,4 +1,4 @@
-﻿"""BM25 retrieval over the templates corpus.
+"""BM25 retrieval over the templates corpus.
 
 Loads templates_corpus.json at import time and exposes a single query
 function used by the composer to find the top-N most relevant template

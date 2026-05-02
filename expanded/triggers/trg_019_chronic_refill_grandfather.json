@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "trg_019_chronic_refill_grandfather",
   "scope": "customer",
   "kind": "chronic_refill_due",

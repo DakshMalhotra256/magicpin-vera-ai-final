@@ -1,4 +1,4 @@
-﻿"""Pure-function fact extraction from context dicts.
+"""Pure-function fact extraction from context dicts.
 
 Refactored from the old trigger_handlers.py helpers. Every function takes
 raw context dicts and returns a plain dict of extracted facts — no LLM, no

@@ -1,4 +1,4 @@
-﻿"""Two-tier reply handler: keyword fast-path + LLM classification.
+"""Two-tier reply handler: keyword fast-path + LLM classification.
 
 Tier 1 (deterministic, ~0ms): catches repeated auto-replies and exact
 opt-out keywords without any LLM call.

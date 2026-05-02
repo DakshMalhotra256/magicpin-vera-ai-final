@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """A/B evaluation: compares deterministic v1 messages (from submission.jsonl)
 against the live hybrid v2 bot, using a strong LLM judge for controlled scoring.
 

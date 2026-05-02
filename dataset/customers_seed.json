@@ -1,4 +1,4 @@
-﻿{
+{
   "_README": "15 representative CustomerContexts. The generator expands these to 200 by varying demographic + relationship state per merchant.",
   "customers": [
     {

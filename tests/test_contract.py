@@ -1,4 +1,4 @@
-﻿"""Contract and unit tests for the Vera bot v2 (hybrid BM25 + LLM).
+"""Contract and unit tests for the Vera bot v2 (hybrid BM25 + LLM).
 
 Tests that require LLM calls mock the OpenAI client. Tests for
 deterministic components (fact extraction, BM25, validation, store)

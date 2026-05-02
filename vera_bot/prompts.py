@@ -1,4 +1,4 @@
-﻿"""Prompt templates for LLM composition and classification.
+"""Prompt templates for LLM composition and classification.
 
 7 prompt families for composition, each with a different reasoning strategy:
   knowledge, performance, account, event, social, customer, fallback

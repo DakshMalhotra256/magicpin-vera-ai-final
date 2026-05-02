@@ -1,4 +1,4 @@
-﻿#!/bin/bash
+#!/bin/bash
 # Run judge simulator against deployed Railway bot
 # Usage: ./run_judge.sh [scenario]
 # Examples:

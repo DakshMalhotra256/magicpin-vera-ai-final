@@ -1,4 +1,4 @@
-﻿# Evaluation Analysis — v1 Deterministic vs v2 Hybrid
+# Evaluation Analysis — v1 Deterministic vs v2 Hybrid
 
 This document details the comparative evaluation between the original deterministic v1 bot and the hybrid v2 bot. The README contains only the final v2 judge simulator scores.
 

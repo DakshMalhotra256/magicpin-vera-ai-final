@@ -1,4 +1,4 @@
-﻿{
+{
   "_README": "10 representative MerchantContexts. The generator (generate_dataset.py) expands these to 50 total (10/category) by varying identity + perf numbers deterministically.",
   "merchants": [
     {

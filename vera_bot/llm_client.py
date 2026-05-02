@@ -1,4 +1,4 @@
-﻿"""Async LLM client for composition and classification.
+"""Async LLM client for composition and classification.
 
 Supports two providers:
 - OpenAI: uses Responses API with client.responses.parse() + text_format

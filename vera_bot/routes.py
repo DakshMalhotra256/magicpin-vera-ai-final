@@ -1,4 +1,4 @@
-﻿"""FastAPI routes — async with parallel LLM composition, cadence planning,
+"""FastAPI routes — async with parallel LLM composition, cadence planning,
 nudge tracking, and per-turn language detection."""
 
 from __future__ import annotations
